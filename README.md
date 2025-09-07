@@ -1,6 +1,6 @@
 # Modern Data Warehouse for Sales Analytics
 
-This project implements a modern data warehouse using **SQL Server** to consolidate and analyse sales data from ERP and CRM systems. The warehouse enables informed decision-making by providing clean, integrated, and analytics-ready datasets for customer behavior, product performance, and sales trends.
+This project implements a modern data warehouse using **SQL Server** to consolidate and analyse sales data from ERP and CRM systems. The warehouse enables informed decision-making by providing clean, integrated, and analytics-ready datasets for customer behaviour, product performance, and sales trends.
 
 ## 📌 **Objective**
 Develop a scalable data warehouse that transforms raw sales data into actionable insights using structured ETL pipelines, star schema modelling, and SQL-based analytics.
@@ -13,7 +13,7 @@ Develop a scalable data warehouse that transforms raw sales data into actionable
 - **Documentation:** Detailed diagrams and data catalogue for easy understanding and maintenance.
 
 ## 📂 **Repository Structure**
-'''
+```
 data-warehouse-project/
 │
 ├── datasets/ # Raw ERP and CRM datasets
@@ -27,7 +27,7 @@ data-warehouse-project/
 │ ├── silver/
 │ └── gold/
 └── readme.md # Project overview and setup instructions
-'''
+```
 
 ## 🚀 **Getting Started**
 1. Load the CSV files from `datasets/` into your SQL Server environment.
