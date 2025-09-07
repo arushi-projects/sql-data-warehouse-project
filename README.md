@@ -13,7 +13,7 @@ Develop a scalable data warehouse that transforms raw sales data into actionable
 - **Documentation:** Detailed diagrams and data catalogue for easy understanding and maintenance.
 
 ## 📂 **Repository Structure**
-
+'''
 data-warehouse-project/
 │
 ├── datasets/ # Raw ERP and CRM datasets
@@ -27,7 +27,7 @@ data-warehouse-project/
 │ ├── silver/
 │ └── gold/
 └── readme.md # Project overview and setup instructions
-
+'''
 
 ## 🚀 **Getting Started**
 1. Load the CSV files from `datasets/` into your SQL Server environment.
